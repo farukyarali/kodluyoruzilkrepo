@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Bu repo [Kodluyoruz](htpss:/kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet index.html barındırıyor.
+Bu repo [Kodluyoruz](https:/kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
 ## Insallation
 
@@ -25,6 +25,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT](C:\Users\FARUK\Desktop\ilkodev\kodluyoruzilkrepo\LICENSE)
+[MIT]()
 
 ![deneme gorsel](https://picsum.photos/100/150)
